@@ -9,7 +9,7 @@ This project demonstrates the fundamentals of database connectivity, user intera
 - <a href="#requirements">⚙️ Requirements</a>
 - <a href="#setup-instructions">🧩 Setup Instructions</a>
 - <a href="#disclaimer">⚠️ Disclaimer</a>
-- <a href="author">🤖 Author</a>
+- <a href="#author">🤖 Author</a>
 
 <h2><a class="anchor" id="features"></a>🚉 Features</h2>
 
